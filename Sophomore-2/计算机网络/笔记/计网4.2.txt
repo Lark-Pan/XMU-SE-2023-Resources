@@ -1,0 +1,3 @@
+ARP地址绑定协议 binding protocol adresses--缩写PA表示协议地址（IP/TCP 4B），HA硬件地址（就是网卡MAC地址，6B）
+丢包延迟乱序。
+ICMP
