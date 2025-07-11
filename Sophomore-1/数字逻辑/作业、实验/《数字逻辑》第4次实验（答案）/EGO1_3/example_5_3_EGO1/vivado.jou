@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Dec 23 21:55:14 2024
+# Process ID: 18852
+# Current directory: C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25508 C:\Users\86158\Desktop\数字逻辑作业\作业答案\《数字逻辑》第4次实验（答案）\EGO1_3\example_5_3_EGO1\example_5_3_EGO1.xpr
+# Log file: C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1/vivado.log
+# Journal file: C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1/example_5_3_EGO1.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source example_5_3_sim.tcl
+restart
+run 120 ns
+run 120 ns
+close_sim

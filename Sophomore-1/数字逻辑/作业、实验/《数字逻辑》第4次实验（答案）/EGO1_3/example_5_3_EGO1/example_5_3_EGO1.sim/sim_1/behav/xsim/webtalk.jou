@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Dec 23 22:07:19 2024
+# Process ID: 22240
+# Current directory: C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1/example_5_3_EGO1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1/example_5_3_EGO1.sim/sim_1/behav/xsim/xsim.dir/example_5_3_sim_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1/example_5_3_EGO1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1/example_5_3_EGO1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1/example_5_3_EGO1.sim/sim_1/behav/xsim/xsim.dir/example_5_3_sim_behav/webtalk/xsim_webtalk.tcl -notrace

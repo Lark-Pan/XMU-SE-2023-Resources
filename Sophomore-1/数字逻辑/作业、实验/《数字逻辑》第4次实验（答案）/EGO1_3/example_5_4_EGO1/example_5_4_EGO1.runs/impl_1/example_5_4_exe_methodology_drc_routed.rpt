@@ -1,0 +1,60 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Fri Nov 10 17:00:48 2023
+| Host         : DESKTOP-CSQVPR3 running 64-bit major release  (build 9200)
+| Command      : report_methodology -file example_5_4_exe_methodology_drc_routed.rpt -pb example_5_4_exe_methodology_drc_routed.pb -rpx example_5_4_exe_methodology_drc_routed.rpx
+| Design       : example_5_4_exe
+| Device       : xc7a35tcsg324-1
+| Speed File   : -1
+| Design State : Fully Routed
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max violations: <unlimited>
+             Violations found: 5
++-----------+------------------+-----------------------------+------------+
+| Rule      | Severity         | Description                 | Violations |
++-----------+------------------+-----------------------------+------------+
+| TIMING-17 | Critical Warning | Non-clocked sequential cell | 5          |
++-----------+------------------+-----------------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+TIMING-17#1 Critical Warning
+Non-clocked sequential cell  
+The clock pin U/U6/y_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#2 Critical Warning
+Non-clocked sequential cell  
+The clock pin U/U6/y_reg_lopt_replica/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#3 Critical Warning
+Non-clocked sequential cell  
+The clock pin U/U7/y_reg/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#4 Critical Warning
+Non-clocked sequential cell  
+The clock pin U/U7/y_reg_lopt_replica/C is not reached by a timing clock
+Related violations: <none>
+
+TIMING-17#5 Critical Warning
+Non-clocked sequential cell  
+The clock pin U/U8/y_reg/C is not reached by a timing clock
+Related violations: <none>
+
+

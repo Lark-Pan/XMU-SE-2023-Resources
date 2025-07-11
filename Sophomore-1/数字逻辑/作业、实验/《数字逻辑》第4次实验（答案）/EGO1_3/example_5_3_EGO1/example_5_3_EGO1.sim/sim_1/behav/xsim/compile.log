@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module xor_gate
+INFO: [VRFC 10-311] analyzing module nand_gate
+INFO: [VRFC 10-311] analyzing module d_flip_flop
+INFO: [VRFC 10-311] analyzing module example_5_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_sim_EGO1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module example_5_3_sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86158/Desktop/数字逻辑作业/作业答案/《数字逻辑》第4次实验（答案）/EGO1_3/example_5_3_EGO1/example_5_3_EGO1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
